@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">risk calc</string>
+    <string name="gender">Gender:</string>
+    <string name="age">Age:</string>
+    <string name="systolic_blood_pressure_mm_hg">Systolic Blood Pressure mm Hg:</string>
+    <string name="cigarette_smoker_in_past_year">Cigarette Smoker in Past Year:</string>
+    <string name="diabetes">Diabetes:</string>
+    <string name="prior_stroke_transient_ischemic_attack_tia">Prior Stroke/Transient Ischemic Attack (TIA):</string>
+    <string name="history_of_congestive_heart_failure_or_myocardial_infraction">History of Congestive Heart Failure or Myocardial Infraction:</string>
+    <string name="significant_murmur_grade_3_6_or_higher_systolic_any_diastolic">Significant Murmur (grade 3/6 or higher systolic, any diastolic):</string>
+    <string name="electrocardiographic_left_ventricular">Electrocardiographic Left Ventricular:</string>
+</resources>
